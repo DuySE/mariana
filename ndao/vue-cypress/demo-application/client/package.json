@@ -13,7 +13,7 @@
     "cy:run-e2e": "start-server-and-test serve http://localhost:8080 test"
   },
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^0.21.2",
     "core-js": "^3.6.5",
     "moment": "^2.29.1",
     "normalize.css": "^8.0.1",
