@@ -1,0 +1,14 @@
+{
+    "baseUrl": "http://localhost:8080",
+    "component":{
+        "componentFolder": "src/",
+        "testFiles":"**/*.spec.js"
+    },
+    "reporter": "junit",
+    "reporterOptions": {
+      "mochaFile": "tests/TEST-output-[hash].xml",
+      "toConsole": true,
+      "attachments": true
+    },
+    "video": false
+}

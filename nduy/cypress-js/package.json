@@ -1,0 +1,9 @@
+{
+  "license": "MIT",
+  "scripts": {
+    "e2e": "cypress open"
+  },
+  "devDependencies": {
+    "cypress": "^8.0.0"
+  }
+}

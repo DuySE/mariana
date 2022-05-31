@@ -1,0 +1,12 @@
+[
+  {
+    "_id": "1",
+    "name": "Test Event",
+    "venue": "Test Venue",
+    "date": "2022-05-05",
+    "time": "12:00AM",
+    "ticketQuantity": 100,
+    "isCancelled": false,
+    "image": "./assets/event-1.jpg"
+  }
+]

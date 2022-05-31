@@ -1,0 +1,14 @@
+{
+  "name": "vue-cypress",
+  "version": "1.0.0",
+  "description": "End-to-end Vue Testing with Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ndao",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^7.7.0"
+  }
+}

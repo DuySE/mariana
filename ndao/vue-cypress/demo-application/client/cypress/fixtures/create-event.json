@@ -1,0 +1,10 @@
+{
+  "_id": "2",
+  "name": "Create Event",
+  "venue": "Create Venue",
+  "date": "2022-05-05",
+  "time": "12:00AM",
+  "ticketQuantity": 100,
+  "isCancelled": false,
+  "image": "./assets/event-2.jpg"
+}
